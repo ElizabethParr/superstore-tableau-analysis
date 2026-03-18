@@ -1,5 +1,8 @@
 # Superstore Tableau Analysis
 
+## 📊 Dashboard Preview
+![Superstore Dashboard](superstore-dashboard.png)
+
 ## Project Overview
 This project analyzes the Superstore dataset using Tableau to identify key profit and loss drivers, evaluate advertising opportunities, and assess product and customer return behavior.
 
